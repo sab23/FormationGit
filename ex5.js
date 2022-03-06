@@ -1,4 +1,4 @@
-function pays() {
+function Pays() {
     nbHabitant = [10000000, 500000, 3000000, 500000000, 62000000];
     i = 0;
     n = 0;

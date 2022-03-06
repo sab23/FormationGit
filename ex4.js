@@ -1,4 +1,4 @@
-function search() {
+function Search() {
     const searchPrenom = "Jean";
     const searchNom = "Dupont";
     const bonjour = "Bonjour Jean Dupont";

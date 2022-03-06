@@ -1,4 +1,4 @@
-function nbnote(){
+function nbNote(){
     note = [12, 8, 17, 9];
     i = 0;
     n=0;
